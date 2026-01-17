@@ -12,7 +12,7 @@
 
 **Une galerie 3D interactive célébrant les Lions de l'Atlas 🦁**
 
-[English](#english) | [العربية](#arabic) | [Français](#french)
+**[English](README.en.md)** | **[العربية](README.ar.md)** | **Français**
 
 ---
 
@@ -90,13 +90,11 @@ Morocco-Squad-3D/
 ├── script.js           # Logique JavaScript
 ├── demo.mp4            # Vidéo de démonstration
 ├── demo.png            # Image d'aperçu
-├── README.md           # Documentation
+├── README.md           # Documentation (Français)
+├── README.en.md        # Documentation (English)
+├── README.ar.md        # Documentation (العربية)
 └── src/
     └── images/         # Photos des joueurs (20 images)
-        ├── hakimi.jpg
-        ├── bono.jpg
-        ├── amrabt.jpg
-        └── ...
 ```
 
 ## 🦁 Liste Complète des 28 Joueurs - CAN 2025
@@ -105,56 +103,56 @@ Morocco-Squad-3D/
 
 ### 🧤 Gardiens (3)
 
-| Joueur | Club |
-|--------|------|
-| Yassine Bounou | Al-Hilal |
-| Munir El Kajoui | RS Berkane |
-| El Mehdi Al Harrar | Wydad AC |
+| Joueur |
+|--------|
+| Yassine Bounou |
+| Munir El Kajoui |
+| El Mehdi Al Harrar |
 
 ### 🛡️ Défenseurs (9)
 
-| Joueur | Club |
-|--------|------|
-| Achraf Hakimi | PSG |
-| Mohamed Chibi | Pyramids FC |
-| Jawad El Yamiq | Real Valladolid |
-| Romain Saïss | Al-Sadd |
-| Abdelhamid Ait Boudlal | Wydad AC |
-| Nayef Aguerd | Real Sociedad |
-| Adam Massina | Torino |
-| Noussair Mazraoui | Manchester United |
-| Anass Salah-Eddine | Valladolid |
+| Joueur |
+|--------|
+| Achraf Hakimi |
+| Mohamed Chibi |
+| Jawad El Yamiq |
+| Romain Saïss |
+| Abdelhamid Ait Boudlal |
+| Nayef Aguerd |
+| Adam Massina |
+| Noussair Mazraoui |
+| Anass Salah-Eddine |
 
 ### ⚡ Milieux de Terrain (7)
 
-| Joueur | Club |
-|--------|------|
-| Oussama Targhalline | Wydad AC |
-| Sofyan Amrabat | Fenerbahçe |
-| Ismaël Saibari | PSV Eindhoven |
-| Neil El Aynaoui | Lille |
-| Bilal El Khannouss | Leicester City |
-| Azzedine Ounahi | Olympiakos |
+| Joueur |
+|--------|
+| Oussama Targhalline |
+| Sofyan Amrabat |
+| Ismaël Saibari |
+| Neil El Aynaoui |
+| Bilal El Khannouss |
+| Azzedine Ounahi |
 
-### ⚽ Attaquants (7)
+### ⚽ Attaquants (8)
 
-| Joueur | Club |
-|--------|------|
-| Brahim Díaz | Real Madrid |
-| Ilias Akhomach | Villarreal |
-| Chemsdine Talbi | Wydad AC |
-| Youssef En-Nesyri | Fenerbahçe |
-| Ayoub El Kaabi | Olympiakos |
-| Soufiane Rahimi | Al-Ain |
-| Abdessamad Ezzalzouli | Real Betis |
-| Eliesse Ben Seghir | Monaco |
+| Joueur |
+|--------|
+| Brahim Díaz |
+| Ilias Akhomach |
+| Chemsdine Talbi |
+| Youssef En-Nesyri |
+| Ayoub El Kaabi |
+| Soufiane Rahimi |
+| Abdessamad Ezzalzouli |
+| Eliesse Ben Seghir |
 
 ### 🔄 Réservistes (2)
 
-| Joueur | Club |
-|--------|------|
-| Hamza Igamane | Rangers |
-| Youssef Belammari | Hatayspor |
+| Joueur |
+|--------|
+| Hamza Igamane |
+| Youssef Belammari |
 
 </div>
 
@@ -214,11 +212,8 @@ Ce projet est sous licence **MIT** - voir le fichier [LICENSE](LICENSE) pour plu
 
 **Naoufal Najim**
 
-- 🔐 Administrateur Réseau | Sécurité Système | Développeur Full Stack
-- 💼 Responsable Informatique | MLF Monde
-- 🇲🇦 Based in Morocco
-- 📧 Email: [naoufal.najim19@gmail.com](mailto:naoufal.najim19@gmail.com)
-- 💼 LinkedIn: [Naoufal Najim](https://linkedin.com/in/naoufalnajim01)
+-  Email: [naoufal.najim19@gmail.com](mailto:naoufal.najim19@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/naoufalnajim01](https://linkedin.com/in/naoufalnajim01)
 - 🐦 X/Twitter: [@naoufalnajim01](https://twitter.com/naoufalnajim01)
 - 💻 GitHub: [@naoufalnajim01](https://github.com/naoufalnajim01)
 
