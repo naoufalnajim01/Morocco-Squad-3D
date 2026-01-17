@@ -93,66 +93,7 @@ Morocco-Squad-3D/
     └── images/         # Photos des joueurs (20 images)
 ```
 
-## 🦁 Liste Complète des 28 Joueurs - CAN 2025
 
-<div align="center">
-
-### 🧤 Gardiens (3)
-
-| Joueur |
-|--------|
-| Yassine Bounou |
-| Munir El Kajoui |
-| El Mehdi Al Harrar |
-
-### 🛡️ Défenseurs (9)
-
-| Joueur |
-|--------|
-| Achraf Hakimi |
-| Mohamed Chibi |
-| Jawad El Yamiq |
-| Romain Saïss |
-| Abdelhamid Ait Boudlal |
-| Nayef Aguerd |
-| Adam Massina |
-| Noussair Mazraoui |
-| Anass Salah-Eddine |
-
-### ⚡ Milieux de Terrain (7)
-
-| Joueur |
-|--------|
-| Oussama Targhalline |
-| Sofyan Amrabat |
-| Ismaël Saibari |
-| Neil El Aynaoui |
-| Bilal El Khannouss |
-| Azzedine Ounahi |
-
-### ⚽ Attaquants (8)
-
-| Joueur |
-|--------|
-| Brahim Díaz |
-| Ilias Akhomach |
-| Chemsdine Talbi |
-| Youssef En-Nesyri |
-| Ayoub El Kaabi |
-| Soufiane Rahimi |
-| Abdessamad Ezzalzouli |
-| Eliesse Ben Seghir |
-
-### 🔄 Réservistes (2)
-
-| Joueur |
-|--------|
-| Hamza Igamane |
-| Youssef Belammari |
-
-</div>
-
-## 🏆 CAN AFCON 2025
 
 Ce projet a été créé spécialement pour célébrer la participation du Maroc à la **Coupe d'Afrique des Nations 2025**. 
 
