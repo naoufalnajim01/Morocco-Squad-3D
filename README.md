@@ -4,7 +4,7 @@
 
 <img src="demo.png" alt="Morocco Squad 3D Preview" width="800"/>
 
-### 🏆 CAN AFCON 2026 Special Edition 🏆
+### 🏆 CAN AFCON 2025 Special Edition 🏆
 
 [![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-Visit-green?style=for-the-badge)](https://naoufalnajim01.github.io/Morocco-Squad-3D)
 [![GitHub](https://img.shields.io/badge/GitHub-naoufalnajim01-181717?style=for-the-badge&logo=github)](https://github.com/naoufalnajim01)
@@ -20,7 +20,7 @@
 
 ## 🎯 À Propos
 
-**Morocco Squad 3D** est une expérience web interactive créée pour célébrer l'équipe nationale marocaine de football à l'occasion de la **CAN AFCON 2026**. Ce projet présente les joueurs des Lions de l'Atlas dans un carrousel 3D immersif avec des effets visuels modernes.
+**Morocco Squad 3D** est une expérience web interactive créée pour célébrer l'équipe nationale marocaine de football à l'occasion de la **CAN AFCON 2025**. Ce projet présente les joueurs des Lions de l'Atlas dans un carrousel 3D immersif avec des effets visuels modernes.
 
 ### ✨ Fonctionnalités
 
@@ -53,11 +53,7 @@ JavaScript   ████████████████████  100%
 
 <div align="center">
 
-### Mode Sombre 🌙
-![Dark Mode](demo.png)
-
-### Mode Clair ☀️
-![Light Mode](demo.png)
+![Morocco Squad 3D](demo.png)
 
 </div>
 
@@ -100,35 +96,75 @@ Morocco-Squad-3D/
         ├── hakimi.jpg
         ├── bono.jpg
         ├── amrabt.jpg
-        ├── brahim.jpg
-        ├── regragui.jpg
         └── ...
 ```
 
-## 🦁 Joueurs Inclus
+## 🦁 Liste Complète des 28 Joueurs - CAN 2025
 
 <div align="center">
 
-| #  | Joueur | Position |
-|----|--------|----------|
-| 🌟 | **Achraf Hakimi** | Défenseur |
-| 🧤 | **Yassine Bounou (Bono)** | Gardien |
-| ⚡ | **Sofyan Amrabat** | Milieu |
-| 🎯 | **Brahim Díaz** | Attaquant |
-| 👔 | **Walid Regragui** | Entraîneur |
-| 🔥 | **Saibari** | Milieu |
-| ⚽ | **Soufiane Rahimi** | Attaquant |
-| 🛡️ | **Nayef Aguerd** | Défenseur |
-| 🎖️ | **Ayoub El Kaabi** | Attaquant |
-| 💨 | **Abde Ezzalzouli** | Ailier |
-| 🎨 | **Azzedine Ounahi** | Milieu |
-| 🏰 | **Romain Saïss** | Défenseur |
-| 👑 | **Youssef En-Nesyri** | Attaquant |
-| ⭐ | **Bilal El Khannouss** | Milieu |
-| 🌪️ | **Achraf Dari** | Défenseur |
-| + 5 autres joueurs | |
+### 🧤 Gardiens (3)
+
+| Joueur | Club |
+|--------|------|
+| Yassine Bounou | Al-Hilal |
+| Munir El Kajoui | RS Berkane |
+| El Mehdi Al Harrar | Wydad AC |
+
+### 🛡️ Défenseurs (9)
+
+| Joueur | Club |
+|--------|------|
+| Achraf Hakimi | PSG |
+| Mohamed Chibi | Pyramids FC |
+| Jawad El Yamiq | Real Valladolid |
+| Romain Saïss | Al-Sadd |
+| Abdelhamid Ait Boudlal | Wydad AC |
+| Nayef Aguerd | Real Sociedad |
+| Adam Massina | Torino |
+| Noussair Mazraoui | Manchester United |
+| Anass Salah-Eddine | Valladolid |
+
+### ⚡ Milieux de Terrain (7)
+
+| Joueur | Club |
+|--------|------|
+| Oussama Targhalline | Wydad AC |
+| Sofyan Amrabat | Fenerbahçe |
+| Ismaël Saibari | PSV Eindhoven |
+| Neil El Aynaoui | Lille |
+| Bilal El Khannouss | Leicester City |
+| Azzedine Ounahi | Olympiakos |
+
+### ⚽ Attaquants (7)
+
+| Joueur | Club |
+|--------|------|
+| Brahim Díaz | Real Madrid |
+| Ilias Akhomach | Villarreal |
+| Chemsdine Talbi | Wydad AC |
+| Youssef En-Nesyri | Fenerbahçe |
+| Ayoub El Kaabi | Olympiakos |
+| Soufiane Rahimi | Al-Ain |
+| Abdessamad Ezzalzouli | Real Betis |
+| Eliesse Ben Seghir | Monaco |
+
+### 🔄 Réservistes (2)
+
+| Joueur | Club |
+|--------|------|
+| Hamza Igamane | Rangers |
+| Youssef Belammari | Hatayspor |
 
 </div>
+
+## 🏆 CAN AFCON 2025
+
+Ce projet a été créé spécialement pour célébrer la participation du Maroc à la **Coupe d'Afrique des Nations 2025**. 
+
+### 🇲🇦 Dima Maghrib! ❤️
+
+> *"Sbooooo3a! 🦁🔥🏆"*
 
 ## 🎨 Personnalisation
 
@@ -160,14 +196,6 @@ const images = [
 ];
 ```
 
-## 🏆 CAN AFCON 2026
-
-Ce projet a été créé spécialement pour célébrer la participation du Maroc à la **Coupe d'Afrique des Nations 2026**. 
-
-### 🇲🇦 Dima Maghrib! ❤️
-
-> *"Sbooooo3a! 🦁🔥🏆"*
-
 ## 🤝 Contribution
 
 Les contributions sont les bienvenues! N'hésitez pas à:
@@ -186,14 +214,19 @@ Ce projet est sous licence **MIT** - voir le fichier [LICENSE](LICENSE) pour plu
 
 **Naoufal Najim**
 
-- GitHub: [@naoufalnajim01](https://github.com/naoufalnajim01)
-- Portfolio: [En construction]
+- 🔐 Administrateur Réseau | Sécurité Système | Développeur Full Stack
+- 💼 Responsable Informatique | MLF Monde
+- 🇲🇦 Based in Morocco
+- 📧 Email: [naoufal.najim19@gmail.com](mailto:naoufal.najim19@gmail.com)
+- 💼 LinkedIn: [Naoufal Najim](https://linkedin.com/in/naoufalnajim01)
+- 🐦 X/Twitter: [@naoufalnajim01](https://twitter.com/naoufalnajim01)
+- 💻 GitHub: [@naoufalnajim01](https://github.com/naoufalnajim01)
 
 ## 🙏 Remerciements
 
 - 🦁 **Les Lions de l'Atlas** - Pour l'inspiration
 - 🇲🇦 **Équipe Nationale du Maroc** - Pour les moments inoubliables
-- 🏆 **CAN AFCON 2026** - Pour la motivation
+- 🏆 **CAN AFCON 2025** - Pour la motivation
 - ⚽ **Tous les supporters marocains** - Dima Maghrib!
 
 ---
@@ -205,7 +238,7 @@ Ce projet est sous licence **MIT** - voir le fichier [LICENSE](LICENSE) pour plu
 **Made with ❤️ for Morocco 🇲🇦**
 
 ![Morocco Flag](https://img.shields.io/badge/🇲🇦-Morocco-c1272d?style=for-the-badge)
-![AFCON 2026](https://img.shields.io/badge/🏆-AFCON_2026-165B33?style=for-the-badge)
+![AFCON 2025](https://img.shields.io/badge/🏆-AFCON_2025-165B33?style=for-the-badge)
 
 </div>
 
