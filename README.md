@@ -32,11 +32,7 @@
 - ⚡ **Performance Optimisée** - Animations fluides à 60 FPS
 - 🎮 **Contrôles Intuitifs** - Drag & drop, hover, et support tactile
 
-### 🎥 Démo Vidéo
 
-https://github.com/user-attachments/assets/demo.mp4
-
-## 🚀 Technologies Utilisées
 
 ```
 HTML5        ████████████████████  100%
